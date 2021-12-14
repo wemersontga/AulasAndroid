@@ -2,10 +2,8 @@
 
 # O arquivo pesquisaFrafmente é referente a aula 281 do projeto Instagram Clone:
 
-Solução para inserir dados no firebase em campo texto com letras iniciais em maiúsculo;
-# Exemplo:
+=> Esta solução para inserir dados no firebase em campo texto com letras iniciais em maiúsculo;
 
- 
 * O método ForamataCampoNome permite gravar dessa forma:
 
 Nome = "ana maria dos santos"
