@@ -4,7 +4,7 @@
 
 => Esta solução para inserir dados no firebase em campo texto com letras iniciais em maiúsculo;
 
-* O método ForamataCampoNome permite gravar dessa forma:
+# O método FormataCampoNome permite gravar dessa forma:
 
 Nome = "ana maria dos santos"
 
