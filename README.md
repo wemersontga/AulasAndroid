@@ -1,6 +1,6 @@
 # AulasAndroid
 
-# O arquivo pesquisaFrafmente é referente a aula 281 do projeto Instagram Clone:
+# O arquivo pesquisaFragmente é referente a aula 281 do projeto Instagram Clone:
 
 => Esta solução para inserir dados no firebase em campo texto com letras iniciais em maiúsculo;
 
